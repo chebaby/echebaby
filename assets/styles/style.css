@@ -325,7 +325,7 @@ img {
 /* --------- 5. Banner area css starts -----------*/
 
 .banner-area{
-    background-image: url(../images/home/home-bg.jpg);
+    background-image: url(../images/home/home_bg.png);
     background-position: center;
     -webkit-background-size:cover;
     background-size:cover;
