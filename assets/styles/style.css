@@ -458,6 +458,12 @@ canvas{
     transform: rotate(-45deg);
 }
 
+.spelling {
+    
+    text-transform: initial;
+    font-size: 0.5em;
+}
+
 
 /*------- 7. Resume area css starts -------*/
 
