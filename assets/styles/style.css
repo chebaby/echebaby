@@ -326,6 +326,7 @@ img {
 
 .banner-area{
     background-image: url(../images/home/home_bg.png);
+    background-color: rgb(115, 123, 150);
     background-position: center;
     -webkit-background-size:cover;
     background-size:cover;
@@ -459,7 +460,7 @@ canvas{
 }
 
 .spelling {
-    
+
     text-transform: initial;
     font-size: 0.5em;
 }
@@ -654,6 +655,7 @@ canvas{
 .gallery-items {
     position: relative;
     margin-bottom: 30px;
+    background-color: #ffebb1;
 }
 
 .gallery-items .img {
@@ -669,7 +671,7 @@ canvas{
     right: 0;
     bottom: 0;
     left: 0;
-    background: rgba(255,255,255,0.8);
+    background: rgba(255,255,255,0.9);
     color: #E94E63;
     opacity: 0;
     -webkit-transition: .7s;

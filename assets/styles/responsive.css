@@ -101,7 +101,7 @@ NB: This is the responsive stylesheet of this theme.
 @media only screen and (max-width: 767px) {
 
     .banner-area {
-        
+
         background-position: -21em;
     }
 
@@ -267,7 +267,7 @@ NB: This is the responsive stylesheet of this theme.
 @media only screen and (min-width: 480px) and (max-width: 767px) {
 
     .banner-area {
-        
+
         background-position: -46em;
     }
 
@@ -296,7 +296,7 @@ NB: This is the responsive stylesheet of this theme.
 @media only screen and (min-width: 360px) and (max-width: 767px){
 
     .banner-area {
-        
+
         background-position: -33em;
     }
 
@@ -308,7 +308,7 @@ NB: This is the responsive stylesheet of this theme.
 @media only screen and (min-width: 375px) and (max-width: 767px){
 
     .banner-area {
-        
+
         background-position: -47em;
     }
 
@@ -342,6 +342,18 @@ NB: This is the responsive stylesheet of this theme.
 
     .single-portfolio {
         text-align: center;
+    }
+
+}
+
+
+@media screen and (min-width: 1201px){
+
+    .banner-area {
+        height: 100%;
+
+        background-position: 9em;
+        background-repeat-x: no-repeat;
     }
 
 }

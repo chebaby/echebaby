@@ -23,9 +23,9 @@ require('scripts/owl.carousel');
 
 require('scripts/typed');
 
-require('scripts/particles');
+// require('scripts/particles');
 
-require('scripts/app');
+// require('scripts/app');
 
 require('scripts/validator');
 
